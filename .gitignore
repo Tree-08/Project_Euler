@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+
+# Python
+__pycache__/
+*.pyc
+
+# Scratch stdin/stdout files used for local testing
+/input.txt
+/output.txt
